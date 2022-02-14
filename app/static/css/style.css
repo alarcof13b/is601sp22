@@ -1,3 +1,22 @@
 body {
-    font-family: Helvetica, "Helvetica Neue", sans-serif;
+    background-color: aliceblue;
+}
+
+#header1 {
+    color: dodgerblue;
+
+}
+
+#header2 {
+    color: crimson;
+
+}
+
+p {
+    background-color: lightblue;
+}
+
+span {
+    font-size: 3em;
+    color: goldenrod;
 }
